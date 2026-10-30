@@ -1,0 +1,12 @@
+CSILLAGÓRA – ANDROID TELEPÍTÉS
+
+Ez a csomag telepíthető PWA webalkalmazás, nem APK.
+
+1. A teljes csillagora_pwa mappa tartalmát töltsd fel egy HTTPS-t biztosító webtárhelyre (például GitHub Pages vagy Netlify).
+2. Androidon nyisd meg a webcímet Google Chrome-ban.
+3. Válaszd a „Telepítés a telefonra” gombot, vagy Chrome menü > Alkalmazás telepítése / Hozzáadás a kezdőképernyőhöz.
+4. Az alkalmazás saját ikonnal indul, az óragyakorlás telepítés után offline is használható.
+5. Hangfelismeréshez Chrome támogatás, mikrofonengedély és jellemzően internet szükséges.
+
+A index.html helyi fájlból is megnyitható, de úgy a PWA telepítés és a beszédfelismerés nem garantált.
+Az eredmények helyben, a böngésző tárhelyén tárolódnak; törléskor elveszhetnek.
